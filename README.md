@@ -40,7 +40,7 @@ The goal of this project is to:
    
 3. **Model Training**:
    - Build and train classification the model using algorithms such as:
-     - XGBClassifier
+     - K Nearest Neighbors
    
 4. **Model Evaluation**:
    - Evaluate the models using appropriate classification metrics:
